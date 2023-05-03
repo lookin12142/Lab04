@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #5a61a8;
+}
+
+h1{
+	margin-left: 35%;
+	font-size: 50px;
+	font-family: 'Hack Nerd Font';
+	color: azure;
+}
+
+#artcl{
+	margin-left: 400px;
+	margin-top: 60px;
+	font-size: 18px;
+	color: #ffff;
+	font-family: 'Arial';
+	border: solid #6C6D6E;
+	margin-right: 350px;	
+}
+
+p{
+	padding-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+#initial{
+	margin-left: 400px;
+	margin-top: 60px;
+	font-size: 18px;
+	color: #310841;
+	font-family: 'Arial';
+	border: solid #6C6D6E;
+	margin-right: 350px;
+}
+
+#line{
+	margin-top: 10px;
+}
+
+img{	
+	border: 6px solid #350650;
+	border-radius: 30px;
+	border-left: 10px;
+	border-top: 100px;
+	display: inline;
+	margin-left: 40px;
+	margin-top: 40px;
+	position: absolute;
+}
+
+p{
+	padding-right: 0px;
+}
+
+#tik{
+	margin-top: -4px;
+	margin-left: 10px;
+	background: red;
+}
+
+#git{
+	margin-top: 2px;
+	margin-left: 8px;
+
+	background: red;
+}
+
+#introd{
+	font-size: 20px;
+	color: aquamarine;
+}
+
+li{
+	margin-left: 100px;
+}
+
+a{
+	color: red;
+}
